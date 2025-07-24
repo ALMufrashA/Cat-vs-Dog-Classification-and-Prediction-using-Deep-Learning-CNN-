@@ -1,0 +1,3 @@
+# Cat vs Dog Classification and Prediction using Deep Learning Algorithm (CNN)
+# Project Description
+The Cat vs Dog Classification project uses a Convolutional Neural Network (CNN) to predict whether an image contains a cat or a dog by learning visual features from the dataset. A custom dataset was created by scraping images from the web and organizing them into separate folders for cats and dogs to prepare for training and testing. The CNN model learns patterns such as edges, shapes, and textures to accurately classify the images. The project is implemented using Python and TensorFlow/Keras, demonstrating the power of deep learning in image classification tasks.
